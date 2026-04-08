@@ -1,1 +1,3 @@
-# scam
+# Super Convenient Asset Manager (SCAM)
+
+In development...
